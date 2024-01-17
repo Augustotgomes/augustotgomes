@@ -33,5 +33,5 @@ Bem vindo ao meu GitHub, sou o Augusto tenho 31 anos  e sempre gostei da área d
 
 ## Skills em Aprendizado
 ![Next](https://img.shields.io/badge/Next.Js-blue?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![React](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
+![Node](https://img.shields.io/badge/Node,js-blue?style=for-the-badge&logo=node)
+
