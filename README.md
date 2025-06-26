@@ -1,5 +1,5 @@
 # Augusto Gomes
-Bem vindo ao meu GitHub, sou o Augusto tenho 31 anos  e sempre gostei da área da tecnologia, iniciando com montagem e manutenção de computadores aos 14 anos, mas me apaixonei pela programação ao primeiro contato! sou formado em Sistemas da Informação e cursei Jogos Digitais. tenho como Hobbies jogar futebol, jogos eletrônicos (FPS principalmente) e faço lives das gameplays na [Twitch](https://twitch.tv/BOKAsp), segue la :smiley: .
+Bem vindo ao meu GitHub, sou o Augusto tenho 34 anos  e sempre gostei da área da tecnologia, iniciando com montagem e manutenção de computadores aos 14 anos, mas me apaixonei pela programação ao primeiro contato! sou formado em Sistemas da Informação e cursei Jogos Digitais. tenho como Hobbies jogar futebol, jogos eletrônicos (FPS principalmente) e faço lives das gameplays na [Twitch](https://twitch.tv/BOKAsp), segue la :smiley: .
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/augusto-gomes-49ba2a46/)
